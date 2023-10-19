@@ -1,0 +1,16 @@
+{
+  "name": "hng-stagetwo",
+  "version": "1.0.0",
+  "description": "- [Introduction](#introduction)\r - [API Documentation](https://documenter.getpostman.com/view/21648125/2s9YC2zto5)\r - [Routes and Controllers](#routes-and-controllers)\r   - [Create a Person](#create-a-person)\r   - [Create a Person with JSON Body](#create-a-person-with-json-body)\r   - [Retrieve a Person by ID or Name](#retrieve-a-person-by-id-or-name)\r   - [Update a Person by ID or Name](#update-a-person-by-id-or-name)\r   - [Delete a Person by ID or Name](#delete-a-person-by-id-or-name)\r - [Database Model](#database-model)\r   -[UML](#UML)\r - [Getting Started](#getting-started)\r   - [Prerequisites](#prerequisites)\r   - [Installation](#installation)\r - [Usage](#usage)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1"
+  }
+}
